@@ -5,7 +5,7 @@ This repository contains Python projects developed using Jupyter Notebooks. Each
 
 ## Projects
 
-### 1. Web Scraping Project
+### 1. [Web Scraping Project](
 This project demonstrates how to scrape data from Wikipedia using the Beautiful Soup library. Users can input a search term, and the script fetches relevant information such as infobox details and introductory paragraphs.
 
 #### Key Features:
