@@ -5,7 +5,7 @@ This repository contains Python projects developed using Jupyter Notebooks. Each
 
 ## Projects
 
-### 1. [Web Scraping Project](
+### 1. [Web Scraping Project](WebScraping-Project.ipynb)
 This project demonstrates how to scrape data from Wikipedia using the Beautiful Soup library. Users can input a search term, and the script fetches relevant information such as infobox details and introductory paragraphs.
 
 #### Key Features:
@@ -20,7 +20,7 @@ This project demonstrates how to scrape data from Wikipedia using the Beautiful 
 
 ---
 
-### 2. OOP Checkpoint
+### 2. [OOP](OOP-Project.ipynb)
 This notebook introduces a basic implementation of an **Account** class to practice object-oriented programming principles.
 
 #### Features:
@@ -39,7 +39,7 @@ my_account.withdraw(200)
 ```
 ---
 
-### 3. Calculator 2.0
+### 3. [Calculator Program](calculator_2.0-checkpoint.ipynb)
 This project extends the functionality of a basic calculator with object-oriented programming. It includes additional mathematical operations and error handling mechanisms.
 
 #### Key Features:
